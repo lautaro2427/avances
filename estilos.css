@@ -1,0 +1,110 @@
+header{
+    background-color: #009E3F;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 60px;
+    color: white;
+    padding-left: 50px;
+}
+
+@media(max-width: 550px){
+    
+    header{
+        display: block;
+        text-align: center;
+    }
+    a{
+        display: block;
+        text-align: center;
+    }
+}
+
+.texto6{
+    color: green;
+}
+
+.contenedor{
+    font-size: 40px;
+}
+
+.texto5{
+    font-size: 50px;
+}
+
+.texto2{
+    color: green;
+    font-size: 60px;
+}
+
+.texto1{
+    color: #009E3F;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+.texto3{
+    font-size: 2rem;
+    font-weight: bolder;
+    color: white;
+
+}
+
+body{
+    margin: 0%;
+}
+
+a{
+    margin: 5px;
+}
+
+nav{
+    font-size: 30px;
+    margin: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.estructura{
+text-align: center;
+font-size: 20px;
+
+    
+}
+.logo{
+    height: 300px;
+}
+
+.texto{
+    text-align: left;
+    background-color:#008000;
+    border-style: solid;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 30px;
+    color: white;
+    
+    
+}
+
+footer{
+    background-color: #009E3F;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+    color: white;
+    padding-right: 50px;
+    
+}
+
+.uade{
+height: 100px;
+display: flex;
+align-items: center;
+}
